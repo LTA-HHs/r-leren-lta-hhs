@@ -28,3 +28,4 @@ zonder programmeerervaring.
 
 Auteur: Monika Vaheoja  
 Jaar: 2026
+Huidige versie v1.0.0
